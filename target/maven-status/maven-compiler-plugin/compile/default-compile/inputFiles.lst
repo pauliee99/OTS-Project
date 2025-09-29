@@ -1,3 +1,11 @@
-C:\Users\pavlo\Documents\code\Java\pharamcy_project\src\main\java\gr\ots\App.java
-C:\Users\pavlo\Documents\code\Java\pharamcy_project\src\main\java\gr\ots\HelloController.java
-C:\Users\pavlo\Documents\code\Java\pharamcy_project\src\main\java\gr\ots\AppConfig.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\Models\Warehouse.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\Models\MedicineCategory.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\HelloController.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\Services\MedicineService.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\Repositories\CategoryInterface.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\AppConfig.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\Repositories\WarehouseInterface.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\App.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\Repositories\MedicineInterface.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\Controllers\MedicineController.java
+C:\Users\andreoup\Documents\code\java\OTS-Project\src\main\java\gr\ots\Models\Medicine.java

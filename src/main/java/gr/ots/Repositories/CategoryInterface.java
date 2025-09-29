@@ -1,4 +1,4 @@
-package gr.ots.Services;
+package gr.ots.Repositories;
 
 import java.util.List;
 
